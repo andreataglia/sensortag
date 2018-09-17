@@ -5,5 +5,5 @@ all: $(CONTIKI_PROJECT)
 
 CONTIKI_WITH_RIME = 1
 
-CONTIKI = ../
+CONTIKI = ..
 include $(CONTIKI)/Makefile.include
