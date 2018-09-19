@@ -1,0 +1,7 @@
+[22:51:07 - main] [Cooja.java:3172] [WARN] - JAVA_HOME environment variable not set, Cooja motes may not compile
+[22:51:07 - AWT-EventQueue-1] [Cooja.java:2856] [INFO] - External tools default settings: /external_tools_linux_64.config
+[22:51:07 - AWT-EventQueue-1] [Cooja.java:2886] [INFO] - External tools user settings: /home/spranga/.cooja.user.properties
+[22:51:12 - AWT-EventQueue-1] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[22:51:12 - AWT-EventQueue-1] [Visualizer.java:256] [INFO] - Registered external visualizer: org.contikios.cooja.plugins.skins.DGRMVisualizerSkin
+[22:51:25 - AWT-EventQueue-1] [CompileContiki.java:140] [INFO] - > make cc26xx-demo.sky TARGET=sky 
+[22:51:38 - AWT-EventQueue-1] [CompileContiki.java:140] [INFO] - > make clean TARGET=sky 
